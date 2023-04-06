@@ -25,7 +25,7 @@
 <br>
 
 
-### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Run project in Jenkins](https://jenkins .autotests.cloud/job/asantalov_diplom_ui/)
+### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Run project in Jenkins](https://jenkins .autotests.cloud/job/user/)
 ##### Implemented parameterized assembly, to run the project you need to select a browser and its version.
 ![Jenkins_run](/images/assembly.jpg)
 
@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/87572795/228360684-d7342cc6-eede-4396-
 ![tests](images/testops.jpg)
 
 
-### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira Integration](https://jira. autotests.cloud/browse/HOMEWORK-633)
+### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira Integration](https://jira. autotests.cloud/browse/HOMEWORK)
 ##### Having set up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
 
 ![Jira](images/jira.jpg)
