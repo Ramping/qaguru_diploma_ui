@@ -25,8 +25,7 @@
 <br>
 
 
-### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins]
-(https://jenkins.autotests.cloud/job/qaguru_diploma_ui/)
+### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins](https://jenkins.autotests.cloud/job/qaguru_diploma_ui/)
 ##### Implemented parameterized assembly, to run the project you need to select a browser and its version.
 ![Jenkins_run](/images/assembly.jpg)
 
