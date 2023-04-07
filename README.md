@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/87572795/228360684-d7342cc6-eede-4396-
 
 
 
-### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full- fit"> [Integration with Allure TestOps](https://allure.autotests.cloud/project/2098/dashboards)
+### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full- fit"> [Integration with Allure TestOps](https://allure.autotests.cloud/project/2140/dashboards)
 
 ##### Also, all reporting is saved in Allure TestOps, where similar graphs are built.
 ![Graf](images/testop.jpg)
@@ -59,17 +59,8 @@ https://user-images.githubusercontent.com/87572795/228360684-d7342cc6-eede-4396-
 ![tests](images/testops.jpg)
 
 
-### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira Integration](https://jira. autotests.cloud/browse/HOMEWORK)
+### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira Integration](https://jira. autotests.cloud/browse/HOMEWORK-658)
 ##### Having set up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
 
 ![Jira](images/jira.jpg)
 
-
-### <img width="3%" title="Telegram" src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png"> Telegram
-##### After passing the tests, Telegram bot receives a message with a schedule and some information about the tests.
-
-![Telegram](images/telega.jpg)
-
-<hr>
-
-![Telegram](images/github-contribution-grid-snake.svg)
