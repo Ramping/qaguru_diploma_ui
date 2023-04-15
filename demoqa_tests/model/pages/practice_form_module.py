@@ -39,6 +39,6 @@ def fill_registration_form(name, surname, gender, phone):
 
 
 def assert_results_registration(data):
-    rows = browser.elements('.modal-content tbody tr')
+    rows = browser.all('.modal-content tbody tr')
     for row, value in data:
         rows.element_by(have.text(row)).all('td')[1].should(have.exact_text(value))
