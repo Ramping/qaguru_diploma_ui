@@ -47,4 +47,4 @@ def test_registration_required_field():
         practice_form_module.assert_results_registration(
             [('Student Name', 'Aleksandr Popov'),
              ('Gender', 'Male'),
-             ('Mobile', '81111111111')])
+             ('Mobile', '8111111111')])
