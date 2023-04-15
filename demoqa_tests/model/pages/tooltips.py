@@ -15,4 +15,4 @@ class TooltipPage:
 
     def assert_text(self):
         browser.element('div.tooltip').should(have.text('You hovered over the text field'))
-        return
+        return self
